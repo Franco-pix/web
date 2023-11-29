@@ -92,7 +92,7 @@ body {
 }
 
 .menu__link--inside:hover{
-    background-color: #f3c4d5;
+    background-color: rgb(248, 227, 235);
 }
 
 .menu__hamburguer{
